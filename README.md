@@ -1,6 +1,6 @@
 # MLP Classifier Grid Search on UCI Bank Marketing Dataset
 
-> Systematic hyperparameter exploration of Multi-Layer Perceptron architectures for binary classification on the UCI Bank Marketing dataset (`bank-additional`).
+> Systematic hyperparameter exploration of Multi-Layer Perceptron architectures for binary classification on the UCI Bank Marketing dataset .
 
 ---
 
@@ -141,9 +141,6 @@ Get `bank-additional.csv` from the [UCI repository](https://archive.ics.uci.edu/
 python mlp_bank.py
 ```
 
-The script will print a full results table to stdout and save `mlp_bank_results.png`.
-
----
 
 ## Requirements
 
@@ -159,7 +156,7 @@ seaborn>=0.11
 
 ## Academic Context
 
-Developed as part of the *Neural Networks* coursework at **University Politehnica of Bucharest (UPB)**, Master's program in Artificial Intelligence / Computer Science.
+Developed as part of the *IsIA* coursework at **University Politehnica of Bucharest (UPB)**, Bachelor's program in Computer Science.
 
 ---
 
